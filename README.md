@@ -1,4 +1,5 @@
 # DynamicArrayInsertAndDelete
+merge two .cpp files in C++
 Dynamically insert and delete the elements on the array
 
 Output for some inputs
